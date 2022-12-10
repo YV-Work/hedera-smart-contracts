@@ -1,3 +1,5 @@
+:warning: This is an unofficial fork of the official Hedera Smart Contracts repo
+
 # Hedera Smart Contracts
 Reference library for Smart Contracts utilized by the Hedera network with supporting files and examples.
 

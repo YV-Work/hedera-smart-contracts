@@ -1,7 +1,7 @@
 {
-  "name": "@hashgraph/smart-contracts",
+  "name": "@yv-work/hedera-smart-contracts",
   "version": "0.3.0-SNAPSHOT",
-  "description": "Hedera Smart Contract Service supporting files",
+  "description": "Hedera Smart Contract  Service supporting files. This is unofficial fork for easy npm imports!",
   "files": [
     "/contracts/**/*.sol",
     "/contracts/**/**/**/*.sol"
